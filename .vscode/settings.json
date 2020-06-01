@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\Rainer\\ksgenv\\Scripts\\python.exe",
+    "python.pythonPath": "c:\\Users\\Rainer\\ksgenv\\Scripts\\python.exe",
     "python.linting.pylintEnabled": true,
     "python.linting.mypyEnabled": false,
     "python.linting.enabled": true
